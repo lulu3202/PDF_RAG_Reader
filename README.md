@@ -19,3 +19,8 @@ Make sure you have the following installed:
   - `langchain_google_genai`
   - `dotenv`
 
+## Output pictures from the Gradio Interface
+
+![image](https://github.com/user-attachments/assets/ef6e461c-89b5-4b45-a97c-61942c23c1cf)
+
+![image](https://github.com/user-attachments/assets/f3ca8813-9729-45a0-984a-8ac4bbf17a29)
